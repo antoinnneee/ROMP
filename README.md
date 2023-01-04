@@ -37,7 +37,7 @@ Please use simple-romp for inference, the rest code is just for training.
 
 ### Installation
 ```
-pip install --upgrade setuptools numpy cython
+pip install --upgrade setuptools numpy==1.22 cython
 pip install --upgrade simple-romp
 ```
 For more details, please refer to [install.md](https://github.com/Arthur151/ROMP/blob/master/simple_romp/README.md).
